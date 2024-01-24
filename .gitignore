@@ -5,3 +5,8 @@
 *.jar
 *.lst
 *.xml
+*.txt
+.DS_Store
+*.txt
+target/surefire-reports/com.employee.timesheets.TimesheetsApplicationTests.txt
+*.txt
